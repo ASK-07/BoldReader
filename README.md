@@ -20,3 +20,24 @@ Additional features for the extension include:
 Additional Notes:
 
 - Icon designed by FlatIcons
+
+  ✅ Steps to Load a Custom Chrome Extension:
+Download or Extract the Extension Folder
+
+The extension should be a folder containing files like:
+
+Open Chrome Extensions Page
+
+Go to chrome://extensions/ in the address bar.
+
+Or click the puzzle piece icon → “Manage Extensions.”
+
+Enable Developer Mode
+
+Toggle the “Developer mode” switch in the top-right corner.
+
+Click “Load unpacked”
+
+Select the folder that contains your extension files.
+
+The extension should now appear in your list and be visible next to the address bar
