@@ -24,7 +24,6 @@ Additional Notes:
   ✅ Steps to Load a Custom Chrome Extension:
 Download or Extract the Extension Folder
 
-The extension should be a folder containing files like:
 
 Open Chrome Extensions Page
 
