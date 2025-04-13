@@ -43,4 +43,4 @@ The extension should now appear in your list and be visible next to the address 
 
 
 
-![image](https://github.com/user-attachments/assets/45a3eb6c-2028-458b-ac4d-1bb6f8bca0b3)
+                                                                                                                                      ![image](https://github.com/user-attachments/assets/45a3eb6c-2028-458b-ac4d-1bb6f8bca0b3)
